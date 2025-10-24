@@ -35,6 +35,7 @@ Face recognition attendance system with modular mobile client and Python-based r
 ## 📊 GitHub Stats
 ![B Suraj Patra's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsurajpatra&show_icons=true&theme=tokyonight&cache_seconds=86400)  
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=bsurajpatra&theme=tokyonight)
+![B Suraj Patra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bsurajpatra&theme=tokyo-night&hide_border=true)
 
 ---
 

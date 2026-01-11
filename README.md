@@ -1,34 +1,65 @@
 # 👋 Hey, I'm **B Suraj Patra**
 
-🎓 B.Tech CSE @ K L University (2023–2027)  
+🎓 B.Tech Computer Science & Engineering @ K L University (2023–2027)  
 💻 Software Engineering • Full-Stack Development • Open-Source  
 📍 Vijayawada, India  
 
 ---
 
 ## 🚀 About Me
-Passionate about building scalable, real-world solutions through clean code and modern web technologies.  
-I love working with the **MERN stack**, contributing to **open-source**, and exploring **AI-driven applications**.
+Computer Science undergraduate with hands-on involvement in collaborative engineering projects, including hackathon finalist builds and production-grade full-stack applications.  
+I enjoy building scalable web systems, contributing to open-source projects, and working in team-driven development environments.
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Java, C, JavaScript, TypeScript, SQL  
-**Frameworks:** React, Next.js, Node.js, Express, React Native  
-**Databases:** MongoDB, MySQL, Redis  
-**Tools:** Git, Docker, Tailwind CSS  
+
+**Languages:**  
+Java, C, JavaScript, TypeScript, SQL  
+
+**Frameworks & Libraries:**  
+React, Next.js, Node.js, Express, React Native  
+
+**Databases & Caching:**  
+MongoDB, MySQL, Redis  
+
+**Tools & Platforms:**  
+Git, GitHub, Docker, Kubernetes, Tailwind CSS, CI/CD (GitHub Actions, Jenkins)
 
 ---
 
 ## 💼 Projects
 
 ### 🍔 [KL Eats](https://kleats.in)
-Campus food pre-ordering platform with real-time menus, vendor dashboards, and secure payments.  
-**Stack:** Next.js, TypeScript, Tailwind, Node.js, Express, MySQL, Redis
+Campus food pre-ordering platform with mobile-first UI, real-time menus, secure payments, and vendor administration.  
+Live on campus with multiple vendors and active monthly transactions.
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MySQL, Redis
+
+---
 
 ### 🧠 [FaceAttend](https://github.com/bsurajpatra/FaceAttend)
-Face recognition attendance system with modular mobile client and Python-based recognition service.  
-**Stack:** React Native, Node.js, MongoDB, Flask, TensorFlow.js
+Android-based face recognition attendance system with modular mobile client, backend APIs, and a Python-based FaceNet recognition service.  
+Built as part of a professional collaboration.
+
+**Tech Stack:** React Native (Expo), Node.js, Express, MongoDB, Flask, facenet-pytorch, TensorFlow.js
+
+---
+
+### 📋 [KarmaSync](https://karmasync.vercel.app)
+Full-stack Agile project management platform supporting personal and collaborative workflows, Kanban boards, sprint planning, and role-based task assignment.
+
+**Tech Stack:** MERN Stack, JWT Authentication, Email Services (SMTP)
+
+---
+
+## 🏆 Highlights
+- Contributed to **9+ open-source repositories** through issue resolution and feature development  
+- Open-source localization and open-data enrichment with **SwechaAP** (OpenStreetMap, Wikipedia, Weblate)  
+- **Finalist**, Build for Bharat Hackathon  
+- **Semi-finalist**, Code for Bharat Season 2 Hackathon  
+- **Top 15**, CodeRush Competitive Programming Challenge (IIITM Gwalior)  
+- Competitive Programming: **2★ CodeChef** (progressing)
 
 ---
 
@@ -39,7 +70,7 @@ Face recognition attendance system with modular mobile client and Python-based r
 ---
 
 ## 📫 Connect With Me
-[🌐 Portfolio](https://bsurajpatra.me) •  
-[💼 LinkedIn](https://www.linkedin.com/in/bsurajpatra) •  
-[🐙 GitHub](https://github.com/bsurajpatra) •  
-📧 [Email](mailto:ankitsuraj1111@gmail.com)
+🌐 [Portfolio](https://bsurajpatra.me)  
+💼 [LinkedIn](https://www.linkedin.com/in/b-suraj-patra)  
+🐙 [GitHub](https://github.com/bsurajpatra)  
+📧 [Email](mailto:2300031514cseelge@gmail.com)

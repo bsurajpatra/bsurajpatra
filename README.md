@@ -1,14 +1,14 @@
-<div align="center">
+div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f172a,60:1e1b4b,100:312e81&height=280&section=header&text=B%20SURAJ%20PATRA&fontSize=72&fontColor=e2e8f0&fontAlignY=45&desc=Full-Stack%20Engineer%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Open-Source%20Builder&descAlignY=64&descSize=18&animation=scaleIn&stroke=6366f1&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f172a,60:1e1b4b,100:312e81&height=280&section=header&text=B%20SURAJ%20PATRA&fontSize=72&fontColor=e2e8f0&fontAlignY=45&animation=scaleIn&stroke=6366f1&strokeWidth=2" />
 
 </div>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%E2%9A%A1+Building+production+systems+that+handle+real+money+%26+real+users;%F0%9F%A7%A0+FaceNet+%7C+MERN+%7C+Next.js+15+%7C+React+Native;%F0%9F%94%AC+2+Patents+Filed+%7C+9%2B+Open-Source+Contributions;%F0%9F%8F%86+Hackathon+Finalist+%7C+LeetCode+1600%2B+%7C+GPA+9.40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%8F%97%EF%B8%8F+Building+for+real+users+%26+production)](https://git.io/typing-svg)
 
 </div>
 

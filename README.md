@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <!-- HERO BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f172a,60:1e1b4b,100:312e81&height=280&section=header&text=B%20SURAJ%20PATRA&fontSize=72&fontColor=e2e8f0&fontAlignY=45&animation=scaleIn&stroke=6366f1&strokeWidth=2" />
@@ -232,8 +232,14 @@ fun_fact: "I ship patents AND food orders 🍔"
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bsurajpatra&theme=onestar&no-frame=true&column=7&margin-w=6&no-bg=false)
+<div align="center">
 
+![](https://img.shields.io/github/stars/bsurajpatra?style=for-the-badge&color=818cf8&labelColor=0f172a&label=Total%20Stars)
+![](https://img.shields.io/github/followers/bsurajpatra?style=for-the-badge&color=6366f1&labelColor=0f172a&label=Followers)
+![](https://img.shields.io/badge/Repos-Public-a78bfa?style=for-the-badge&labelColor=0f172a)
+![](https://img.shields.io/badge/PRs-Welcome-f97316?style=for-the-badge&labelColor=0f172a)
+
+</div>
 </div>
 
 <div align="center">

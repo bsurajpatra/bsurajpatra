@@ -60,8 +60,6 @@ certifications:
 currently_building:
   - "KL Eats — campus food ecosystem"
   - "FaceAttend — biometric attendance AI"
-
-fun_fact: "I ship patents AND food orders 🍔"
 ```
 
 <br clear="right"/>

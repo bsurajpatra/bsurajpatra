@@ -289,9 +289,6 @@ currently_building:
 <div align="center">
 
 <br/>
-
-> *"I don't just write code — I build systems that handle real users, real transactions, and real problems."*
-
 <br/>
 
 </div>

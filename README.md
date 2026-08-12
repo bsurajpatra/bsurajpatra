@@ -15,6 +15,10 @@
 
 <br/>
 
+## About
+
+Computer Science and Engineering student at K L E F Deemed University (2023–2027, GPA 9.4/10), specializing at the intersection of **Game Development** and **UX Design** through Honors via Experiential Learning. Originally from Odisha, now based in Vijayawada — building software with real-world impact and contributing back to the FOSS community.
+
 ```yaml
 role:          Full Stack Developer · FOSS Advocate
 location:      Vijayawada, Andhra Pradesh (from Odisha)
@@ -28,6 +32,9 @@ current_offer: TCS Prime — System Engineer (campus recruitment, Jun 2026)
 <br/>
 
 ## Experience
+
+**Scrum Master & Developer** · KL Eats — *Jul 2024 – Present* · Remote
+Product of KLGLUG, a unit of Quitech Labs Pvt. Ltd. Leading agile development as Scrum Master — sprint planning, reviews, and team coordination — while building features for a live food ordering and payment platform.
 
 **Open Data Intern** · SwechaAP — *May 2024 – Jun 2024* · Remote
 Worked with a non-profit promoting Free and Open-Source Software. Contributed to open-source data analytics and visualization projects, collaborating with developers and researchers to improve data transparency.
@@ -246,7 +253,15 @@ Active with **KL GLUG** (open-source community) and the **Wikipedia Club**, runn
 
 <img src="https://streak-stats.demolab.com?user=bsurajpatra&theme=transparent&hide_border=true&background=0f172a&stroke=6366f1&ring=818cf8&fire=f97316&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bsurajpatra&bg_color=0f172a&color=818cf8&line=6366f1&point=f97316&area_color=1e1b4b&area=true&hide_border=true&radius=6&custom_title=Contribution%20Timeline" />
+</div>
+
+<br/>
+
+## 3D Contribution Skyline
+
+<div align="center">
+
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" />
 
 </div>
 

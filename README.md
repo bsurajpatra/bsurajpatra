@@ -1,244 +1,256 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f172a,60:1e1b4b,100:312e81&height=280&section=header&text=B%20SURAJ%20PATRA&fontSize=72&fontColor=e2e8f0&fontAlignY=45&animation=scaleIn&stroke=6366f1&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0f172a&height=210&section=header&text=Hi,%20I'm%20B%20Suraj%20Patra&fontSize=42&fontColor=e2e8f0&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20FOSS%20Advocate&descAlignY=60&descSize=16&descColor=94a3b8&animation=fadeIn" />
 
-</div>
+<br/>
 
-<!-- ANIMATED TYPING -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%8F%97%EF%B8%8F+Building+for+real+users+%26+production)](https://git.io/typing-svg)
+<a href="https://bsurajpatra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bsurajpatra.vercel.app-6366f1?style=flat-square&labelColor=0f172a" /></a>
+<a href="https://www.linkedin.com/in/b-suraj-patra/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
+<a href="https://github.com/bsurajpatra"><img src="https://img.shields.io/badge/GitHub-Follow-e2e8f0?style=flat-square&logo=github&logoColor=black&labelColor=0f172a" /></a>
+<a href="mailto:ankitsuraj1111@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
+<a href="https://www.instagram.com/suraj_patra_0/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0f172a" /></a>
+<img src="https://komarev.com/ghpvc/?username=bsurajpatra&style=flat-square&color=6366f1&labelColor=0f172a&label=Views" />
 
 </div>
 
 <br/>
-
-<!-- SOCIAL BADGES ROW -->
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bsurajpatra.me-6366f1?style=for-the-badge&labelColor=0f172a)](https://bsurajpatra.me)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://linkedin.com/in/b-suraj-patra)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-e2e8f0?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/bsurajpatra)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:ankitsuraj1111@gmail.com)&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=bsurajpatra&style=for-the-badge&color=6366f1&labelColor=0f172a&label=Profile+Views)
-
-</div>
-
-<br/>
-
----
-
-<!-- ABOUT ME SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35"/> &nbsp;`whoami`
-
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsurajpatra&layout=donut&theme=transparent&hide_border=true&title_color=818cf8&text_color=94a3b8&langs_count=8&bg_color=0f172a" />
 
 ```yaml
-name:       "B Suraj Patra"
-alias:      "suraj"
-location:   "Vijayawada, India 🇮🇳"
-education:
-  degree:   "B.Tech Computer Science"
-  uni:      "K L E F Deemed University"
-  batch:    "2023 → 2027"
-  gpa:      9.40 / 10.0
-
-patents_filed:        2
-open_source_repos:    "9+"
-monthly_txn_volume:   "₹1,00,000+"  # KL Eats
-
-competitive_prog:
-  leetcode:   "1600+ rating"
-  codechef:   "1500+ rating"
-
-certifications:
-  - "MongoDB Associate Developer"
-  - "AWS Cloud Practitioner"
-  - "GitHub Foundations"
-
-currently_building:
-  - "KL Eats — campus food ecosystem"
-  - "FaceAttend — biometric attendance AI"
+role:          Full Stack Developer · FOSS Advocate
+location:      Vijayawada, Andhra Pradesh (from Odisha)
+education:     B.Tech CSE, K L E F Deemed University · 2023-2027 · GPA 9.4/10
+patents:       2 filed & published
+open_source:   9+ repos · Wikipedia, OpenStreetMap, Weblate
+competitive:   LeetCode 1700+ · CodeChef 1500+ · Codeforces 1050+
+current_offer: TCS Prime — System Engineer (campus recruitment, Jun 2026)
 ```
 
-<br clear="right"/>
+<br/>
 
----
+## Experience
 
-<!-- SKILLS SECTION WITH ICONS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32"/> &nbsp;Tech Arsenal
+**Open Data Intern** · SwechaAP — *May 2024 – Jun 2024* · Remote
+Worked with a non-profit promoting Free and Open-Source Software. Contributed to open-source data analytics and visualization projects, collaborating with developers and researchers to improve data transparency.
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-### ⚡ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Languages**
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### ⚙️ Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**Backend & Data**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🔗 Integrations & Realtime
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Cashfree](https://img.shields.io/badge/Cashfree-Payments-00bcd4?style=flat-square)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+**Realtime, ML & Game Dev**
+<br/>
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-### 🔧 DevOps & Tooling
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+**Payments & Tooling**
+<br/>
+![Cashfree](https://img.shields.io/badge/Cashfree-00bcd4?style=flat-square) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 </div>
 
----
+<br/>
 
-<!-- PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32"/> &nbsp;Flagship Projects
+## Projects
 
-<table align="center" border="0">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🍔 KL Eats — *Live & Incorporated*
-> Campus-scale food pre-ordering ecosystem
+### 🍔 KL Eats
+Campus food pre-ordering platform helping students order meals in advance while enabling canteens to manage orders, payments, and settlements efficiently. Live in production.
 
-- 📱 **Mobile-first** UI · vendor admin · finance portal
-- 💳 **Cashfree** payment integration · live in production
-- 📦 **₹1,00,000+** monthly order volume
-- 🏢 Incorporated under **Equitech Lab Pvt. Ltd.**
-- 👨‍🍳 **3 vendors** currently on-platform
+`Next.js` `Node.js` `MySQL` `Tailwind` `Shadcn UI` `Cashfree` `Redis`
 
-`Next.js 15` `React 18` `TypeScript` `Tailwind`
-`Node.js` `Express` `MySQL` `Redis` `shadcn/ui`
-
-[![Visit](https://img.shields.io/badge/🌐_Live_Site-kleats.in-22c55e?style=flat-square&labelColor=0f172a)](https://kleats.in)
+[🌐 Live](https://kleats.in/) · [📁 Repo](https://github.com/KLEats)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 FaceAttend — *Biometric*
-> Kiosk-grade biometric attendance platform
+### 🧠 FaceAttend
+Kiosk-grade face recognition attendance platform for institutions — premium Web ERP + real-time mobile app. FaceNet biometric recognition, secure Android kiosk mode, and WebSocket sync prevent proxy attendance, with PDF/CSV analytics reports.
 
-- 🤖 **FaceNet** 512-D vector embeddings
-- 📡 **WebSocket** real-time sync & proxy prevention
-- 🔒 **Android kiosk mode** + JWT auth
-- 🏢 Built with **Creovsys Solutions India Pvt. Ltd.**
-- 🧩 Modular: Mobile + Web ERP + Python Microservice
+`React Native` `Node.js` `MongoDB` `Python` `Flask` `FaceNet` `Socket.io`
 
-`React Native (Expo)` `TypeScript` `Python` `Flask`
-`FaceNet` `Socket.io` `MongoDB` `Node.js` `JWT`
-
-[![Repo](https://img.shields.io/badge/📁_View_Repo-GitHub-818cf8?style=flat-square&labelColor=0f172a)](https://github.com/bsurajpatra)
+[🌐 Live](https://faceattendai.netlify.app/) · [📁 Repo](https://github.com/bsurajpatra/FaceAttend)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📋 DigiChit — *Fintech*
-> Secure digital chit fund platform
+### 🛡️ SafeWebVerify
+Full-stack phishing detection platform using machine learning to analyze URLs and classify them as legitimate or phishing in real time.
 
-- 🔐 KYC verification & digital ledgers
-- 🌐 **Multilingual** notifications
-- 💰 **Razorpay** payment integration
-- 📊 Transparent group fund management
+`React` `Node.js` `Express` `MongoDB` `Flask` `scikit-learn` `JWT`
 
-`React (Vite)` `Node.js` `Express.js` `MongoDB` `Razorpay`
-
-[![Repo](https://img.shields.io/badge/📁_View_Repo-GitHub-818cf8?style=flat-square&labelColor=0f172a)](https://github.com/bsurajpatra)
+[🌐 Live](https://safewebverify.netlify.app/) · [📁 Repo](https://github.com/bsurajpatra/SafeWebVerify)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗳️ Biometric Voting System — *Patented*
-> Multi-layer biometric voter authentication
+### 📌 KarmaSync
+Lightweight Agile project management tool for planning, tracking, and collaborating using Kanban boards, sprints, user stories, and daily to-do tracking — all from one dashboard.
 
-- 🔬 **Patent Filed:** IN202541073801 (Aug 2025)
-- 🛡️ Prevents impersonation at scale
-- 🏛️ Designed for election transparency
-- 🔐 Multi-layer authentication architecture
+`React` `Node.js` `Express` `MongoDB` `JWT` `EmailJS`
 
-`Biometrics` `Security` `Authentication` `R&D`
+[🌐 Live](https://karmasync.vercel.app/) · [📁 Repo](https://github.com/bsurajpatra/KarmaSync_info)
 
-[![Patent](https://img.shields.io/badge/📜_Patent-IN202541073801-f59e0b?style=flat-square&labelColor=0f172a)](#)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ GitMatch
+Production-ready Electron desktop app that assesses candidate fit via a Weighted Job Fit Engine (70%) + Engineering Quality Engine (30%). Supports monorepo scanning, concurrent bulk screening, comparison matrices, and offline PDF exports.
+
+`Electron` `React` `Vite` `Node.js` `PDFKit` `Worker Threads`
+
+[🌐 Live](https://gitmatchx.netlify.app/) · [📁 Repo](https://github.com/bsurajpatra/GitMatch)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕶️ ChronoLens
+Production-grade WebAR museum experience — scan physical artwork to unlock immersive digital narratives, holographic 3D overlays, and spatial audio tours, right in the browser.
+
+`React` `MindAR.js` `Three.js` `Tailwind` `Vite`
+
+[🌐 Live](https://chronolensar.netlify.app/) · [📁 Repo](https://github.com/bsurajpatra/ChronoLens)
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>🎮 Games</b></summary>
+<br/>
 
-<!-- PATENTS SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="32"/> &nbsp;Patents Filed
+**SWAT vs the Undead** — Single-player FPS arena survival game; fight zombie waves, manage health and ammo. `Unity` `C#`
+[Play](https://bsurajpatra.itch.io/swat-vs-the-undead) · [Repo](https://github.com/bsurajpatra/swat-vs-the-undead)
+
+**Fruit Blast** — Fast-paced arcade game; blast flying fruits, avoid bombs, beat the clock. Mobile + PC. `Unity` `C#`
+[Play](https://bsurajpatra.itch.io/fruit-blast)
+
+</details>
+
+<br/>
+
+## Patents
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Biometric-based Voting System with Multi-layer Authentication**
+`IN202541073801` · Published Aug 2025 (Journal No. 34/2025)
+
+Multi-layer voter authentication combining Aadhaar-based fingerprint, facial recognition, OTP, voter ID cross-check, and geo-fencing. Logs every attempt in a tamper-proof backend with a real-time monitoring dashboard, preventing proxy voting while staying privacy-compliant.
+
+</td>
+<td valign="top" width="50%">
+
+**DigiChit: Digitalized Chit Fund Management via eKYC & Automated Mandate Processing**
+`IN202541098116` · Published Nov 2025 (Journal No. 46/2025)
+
+Automated digital chit fund system with eKYC verification, mandate generation, secure payment workflows, and real-time fraud detection. A modular architecture and immutable digital ledger ensure auditability and regulatory compliance.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Achievements
+
+| | |
+|---|---|
+| 💼 **TCS Prime Offer** | System Engineer role via campus recruitment · Jun 2026 |
+| 🏆 **Game Verse Hackathon** | Winner — built *SWAT vs the Undead* |
+| 🥇 **Smart Coder (Smart Interviews)** | Gold · Global Rank 2889 / 50,390 |
+| 🥈 **Code for Bharat S2** | Semi-Finalist — national hackathon |
+| 🎖️ **Build for Bharat** | Finalist — student innovation challenge |
+| 🏅 **CodeRush Hackathon** | Top 15 — ICPC-style online round |
+
+<br/>
+
+## Coding Profiles
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│  📜 Patent #1 · IN202541073801 · August 2025                                    │
-│  ─────────────────────────────────────────────────────────────────────────────  │
-│  Biometric-based Voting System with Multi-layer Authentication                  │
-│  → Multi-layer biometric voter authentication                                   │
-│  → Prevents impersonation · Improves election transparency                      │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  📜 Patent #2 · IN202541098116 · November 2025                                  │
-│  ─────────────────────────────────────────────────────────────────────────────  │
-│  DigiChit: Automated Chit Fund Processing System                                │
-│  → Rule-based mandate verification & fraud-detection logic                      │
-│  → Compliance automation for traditional chit workflows                         │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+[![LeetCode](https://img.shields.io/badge/LeetCode-1700%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a)](https://leetcode.com/u/bsurajpatra1/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1500%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0f172a)](https://www.codechef.com/users/bsurajpatra)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1050%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0f172a)](https://codeforces.com/profile/bsurajpatra)
 
 </div>
 
----
+<br/>
 
-<!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32"/> &nbsp;GitHub Stats
+## Education
+
+| Degree | Institution | Years | Score |
+|---|---|---|---|
+| B.Tech, Computer Science & Engineering | K L E F Deemed To Be University, Vijayawada | 2023 – 2027 | GPA 9.4/10 |
+| Senior Secondary (Class 12), Science | Sunabeda Public School, Odisha (ISC) | 2021 – 2023 | 85% |
+| Secondary (Class 10) | Sunabeda Public School, Odisha (ICSE) | 2020 – 2021 | 93.5% |
+
+<br/>
+
+## Certifications
 
 <div align="center">
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=bsurajpatra&show_icons=true&theme=transparent&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="195px" src="https://streak-stats.demolab.com?user=bsurajpatra&theme=transparent&hide_border=true&background=0f172a&stroke=6366f1&ring=818cf8&fire=f97316&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0f172a)
+![GitHub](https://img.shields.io/badge/GitHub_Foundations-181717?style=flat-square&logo=github&logoColor=white&labelColor=0f172a)
+![MongoDB](https://img.shields.io/badge/MongoDB_Associate_Developer-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0f172a)
+![Unity](https://img.shields.io/badge/Unity_Certified_Programmer-000000?style=flat-square&logo=unity&logoColor=white&labelColor=0f172a)
+![Salesforce](https://img.shields.io/badge/Salesforce_AI_Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white&labelColor=0f172a)
+![Cambridge](https://img.shields.io/badge/Linguaskill_General-English-A6192E?style=flat-square&labelColor=0f172a)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_DLI-Deep_Learning-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=0f172a)
+![Scrum](https://img.shields.io/badge/Scrum_Fundamentals-6DB33F?style=flat-square&labelColor=0f172a)
 
 </div>
+
+<br/>
+
+## Community
+
+Active with **KL GLUG** (open-source community) and the **Wikipedia Club**, running hands-on sessions and representing student open-source work:
+
+- Introduced AI, AI-powered tools, and IoT to school students through interactive sessions
+- Organized KL University's inaugural **OpenStreetMap 20th Anniversary Mapping Party**
+- Led a **Wikipedia editing & open-knowledge workshop** on citations and responsible contribution
+- Helped shape early product direction for **KL Eats** through ideation sessions and its prototype launch
+- Represented **KL GLUG** and the **Wikipedia Club** at the KL University Project & Club Expo 2025
+- Completed the **NVIDIA DLI** certified workshop on Deep Learning Fundamentals (PyTorch, CNNs, NLP, transfer learning)
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bsurajpatra&bg_color=0f172a&color=818cf8&line=6366f1&point=f97316&area_color=1e1b4b&area=true&hide_border=true&radius=6&custom_title=Contribution%20Timeline)
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=bsurajpatra&show_icons=true&theme=transparent&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsurajpatra&layout=compact&theme=transparent&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=94a3b8&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=bsurajpatra&theme=transparent&hide_border=true&background=0f172a&stroke=6366f1&ring=818cf8&fire=f97316&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bsurajpatra&bg_color=0f172a&color=818cf8&line=6366f1&point=f97316&area_color=1e1b4b&area=true&hide_border=true&radius=6&custom_title=Contribution%20Timeline" />
 
 </div>
 
-<div align="center">
-
-<div align="center">
-
-![](https://img.shields.io/github/stars/bsurajpatra?style=for-the-badge&color=818cf8&labelColor=0f172a&label=Total%20Stars)
-![](https://img.shields.io/github/followers/bsurajpatra?style=for-the-badge&color=6366f1&labelColor=0f172a&label=Followers)
-![](https://img.shields.io/badge/Repos-Public-a78bfa?style=for-the-badge&labelColor=0f172a)
-![](https://img.shields.io/badge/PRs-Welcome-f97316?style=for-the-badge&labelColor=0f172a)
-
-</div>
-</div>
+<br/>
 
 <div align="center">
 
@@ -248,53 +260,8 @@ currently_building:
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
+<br/><br/>
 
----
-
-<!-- ACHIEVEMENTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32"/> &nbsp;Achievements
-
-<div align="center">
-
-| 🏅 | Achievement | Detail |
-|:---:|---|---|
-| 🥇 | **Hackathon Finalist** | Build for Bharat — Team Code4Cause |
-| 🥈 | **Semi-Finalist** | Code for Bharat Season 2 |
-| 🏆 | **Top 15** | CodeRush CP Challenge · IIITM Gwalior |
-| ⭐ | **LeetCode 1600+** | Consistent problem solver |
-| ⭐ | **CodeChef 1500+** | Competitive programmer |
-| 🌍 | **9+ Open Source Repos** | Wikipedia · OpenStreetMap · Weblate |
-| 📖 | **GLUG Wikipedia Head** | Mentoring open-data contributors |
-| 🔬 | **2 Patents Filed** | Inventions in biometrics & fintech |
-| 💰 | **₹1L/Month Revenue** | KL Eats — live campus product |
-
-</div>
-
----
-
-<!-- CERTIFICATIONS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="32"/> &nbsp;Certifications
-
-<div align="center">
-
-[![MongoDB](https://img.shields.io/badge/MongoDB_Associate_Developer-Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0f172a)](https://www.mongodb.com/certification/)
-[![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0f172a)](https://aws.amazon.com/certification/)
-[![GitHub](https://img.shields.io/badge/GitHub_Foundations-Certified-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://education.github.com/experiences/foundations_certificate)
-
-</div>
-
----
-
-<div align="center">
-
-<br/>
-<br/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:020817&height=130&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0f172a&height=100&section=footer" />
 
 </div>

@@ -4,6 +4,10 @@
 
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=560&lines=Building+scalable+web+apps+%F0%9F%9A%80;Shipping+KL+Eats+to+real+users+%F0%9F%8D%94;2+Patents+Filed+%F0%9F%94%AC;FOSS+Contributor+%7C+Wikipedia+%C2%B7+OSM)](https://git.io/typing-svg)
+
+<br/>
+
 <a href="https://bsurajpatra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bsurajpatra.vercel.app-6366f1?style=flat-square&labelColor=0f172a" /></a>
 <a href="https://www.linkedin.com/in/b-suraj-patra/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
 <a href="https://github.com/bsurajpatra"><img src="https://img.shields.io/badge/GitHub-Follow-e2e8f0?style=flat-square&logo=github&logoColor=black&labelColor=0f172a" /></a>
@@ -14,10 +18,6 @@
 </div>
 
 <br/>
-
-## About
-
-Computer Science and Engineering student at K L E F Deemed University (2023–2027, GPA 9.4/10), specializing at the intersection of **Game Development** and **UX Design** through Honors via Experiential Learning. Originally from Odisha, now based in Vijayawada — building software with real-world impact and contributing back to the FOSS community.
 
 ```yaml
 role:          Full Stack Developer · FOSS Advocate
@@ -33,9 +33,6 @@ current_offer: TCS Prime — System Engineer (campus recruitment, Jun 2026)
 
 ## Experience
 
-**Scrum Master & Developer** · KL Eats — *Jul 2024 – Present* · Remote
-Product of KLGLUG, a unit of Quitech Labs Pvt. Ltd. Leading agile development as Scrum Master — sprint planning, reviews, and team coordination — while building features for a live food ordering and payment platform.
-
 **Open Data Intern** · SwechaAP — *May 2024 – Jun 2024* · Remote
 Worked with a non-profit promoting Free and Open-Source Software. Contributed to open-source data analytics and visualization projects, collaborating with developers and researchers to improve data transparency.
 
@@ -47,23 +44,23 @@ Worked with a non-profit promoting Free and Open-Source Software. Contributed to
 
 **Languages**
 <br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,mysql&theme=dark" />
 
 **Frontend**
 <br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,figma&theme=dark" />
 
 **Backend & Data**
 <br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,redis&theme=dark" />
 
 **Realtime, ML & Game Dev**
 <br/>
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+<img src="https://skillicons.dev/icons?i=socketio,sklearn,pytorch,unity,electron&theme=dark" />
 
 **Payments & Tooling**
 <br/>
-![Cashfree](https://img.shields.io/badge/Cashfree-00bcd4?style=flat-square) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,expo,vscode&theme=dark" />
 
 </div>
 
@@ -189,6 +186,14 @@ Automated digital chit fund system with eKYC verification, mandate generation, s
 | 🥈 **Code for Bharat S2** | Semi-Finalist — national hackathon |
 | 🎖️ **Build for Bharat** | Finalist — student innovation challenge |
 | 🏅 **CodeRush Hackathon** | Top 15 — ICPC-style online round |
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bsurajpatra&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
 
 <br/>
 
